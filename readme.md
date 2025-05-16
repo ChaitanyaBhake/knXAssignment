@@ -1,4 +1,4 @@
----
+
 `Prerequisites`
 
 - Install NATS server from nats official github repo [here](https://github.com/nats-io/nats-server/releases/tag/v2.11.3) on your device.
@@ -10,8 +10,6 @@
     PORT=4000
     MONGODB_URI=mongodb://localhost:27017/cryptoStats_db or Atlas Cluster String
     ```
-
----
 
 `How to run Locally`
 
