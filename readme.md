@@ -1,4 +1,4 @@
----
+
 `Prerequisites`
 
 - Install NATS server from nats official github repo [here](https://github.com/nats-io/nats-server/releases/tag/v2.11.3) on your device.
